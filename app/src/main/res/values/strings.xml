@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ValuePicker</string>
+    <string name="pick_num">Pick Value</string>
+
+
+
+    <string-array name="alphabets">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string-array name="values">
+        <item>0k</item>
+        <item>5k</item>
+        <item>10k</item>
+        <item>15k</item>
+        <item>20k</item>
+        <item>25k</item>
+        <item>30k</item>
+        <item>35k</item>
+        <item>40k</item>
+        <item>45k</item>
+        <item>50k</item>
+        <item>55k</item>
+        <item>60k</item>
+        <item>65k</item>
+        <item>70k</item>
+        <item>75k</item>
+        <item>80k</item>
+        <item>85k</item>
+        <item>90k</item>
+        <item>95k</item>
+    </string-array>
+
+
+</resources>
